@@ -62,4 +62,4 @@ public class TransactionForm extends JFrame {
         setVisible(true);
     }
 }
-
+// Tabugadir, Kenji "Brocks" I.
